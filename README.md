@@ -11,7 +11,8 @@ The user can add as many of each tab as they want, enabling multiple parallel tr
 
 File Explorer tabs auto-detects Isaac installations if they exist but the user can manually browse for an installation (the folder simply called "Isaac". The user can navigate their Isaac folders, write new scripts, delete files, and even edit files in the extension. 
 
-<img width="2784" height="1640" alt="image" src="https://github.com/user-attachments/assets/fd3d18a0-27f8-4116-a285-8484f0758cf9" />
+<img width="2782" height="1630" alt="image" src="https://github.com/user-attachments/assets/734f6812-c13f-4fe8-a01d-8964b041a42f" />
+
 
 The Training tab is a built-in mini Windows Powershell, with dedicated buttons to run scripts, stop scripts, and enable/disable virtual environments with a single click. The Training tab also has an Isaac installer, handling the installation, uninstallation, and verification of your local Isaac instance (may be buggy for now, probably needs to be more robust).
 
