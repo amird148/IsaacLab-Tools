@@ -19,7 +19,7 @@ The Training tab is a built-in mini Windows Powershell, with dedicated buttons t
 
 The Remote Instance tab is intended for Isaac training using rented remote machines. This tab also has a built-in Powershell. This tab has options to generate your SSH key and retrieve other local machine info. Once you rent your remote machine, just input the IP and port, and this tab has its own Isaac installer for the remote machine. Once connected and remote Isaac installed, there's a pseudo-File Explorer for the user to access the files in the remote workspace, allowing the user to import and export files between the local and remote machines, and editing the remote workspace. 
 
-<img width="2784" height="1630" alt="image" src="https://github.com/user-attachments/assets/c487a4ff-503d-425d-a578-6dd4b0459dca" />
+<img width="2782" height="1636" alt="image" src="https://github.com/user-attachments/assets/6acd2ba5-819b-4f78-897e-116ae5a71c09" />
 
 Steps for remote training:
 
