@@ -1,7 +1,7 @@
 # IsaacLab-Tools
 A browser themed VSCode extension and some other tools for training robots with Isaac Lab both locally and with cloud computing
 
-<img width="2784" height="1638" alt="image" src="https://github.com/user-attachments/assets/7152d1c0-9fcc-41f9-895b-4c8604e0de94" />
+<img width="2780" height="1634" alt="image" src="https://github.com/user-attachments/assets/c16cd3d5-c6cd-4c0b-a5ca-d959fa285779" />
 
 A good cloud computing service that that used while developing the remote tab features is Vast.ai, using this template here: 
 https://cloud.vast.ai?ref_id=504182&template_id=dc479b41b7dfd6056db0db892a75eaa1
