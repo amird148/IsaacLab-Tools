@@ -41,6 +41,7 @@ Steps for remote training:
   -Import your trained policies back to your local machine after training
 
 *If needed, the Powershell for both training and remote instance tabs is always available to run custom commands that may not be built-in yet
+*For remote instances, you really don't need to hit "Connect" unless running bash commands
 
 The Training Monitor tab is extremely useful, especially for the remote instance training when you may not be able to view the UI. This tab pretty much plots all of your important training information over iterations as shown. When this monitor is coupled with my training script package, it gets extremely powerful, with the monitor calculating accurate ETAs, plotting individual rewards, and more!
 
