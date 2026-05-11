@@ -4,7 +4,7 @@ A browser themed VSCode extension and some other tools for training robots with 
 <img width="2784" height="1638" alt="image" src="https://github.com/user-attachments/assets/7152d1c0-9fcc-41f9-895b-4c8604e0de94" />
 
 A good cloud computing service that that used while developing the remote tab features is Vast.ai, using this template here: 
-https://cloud.vast.ai?ref_id=504182&template_id=e25452f60c8fe45d982518bf3c988d94
+https://cloud.vast.ai?ref_id=504182&template_id=dc479b41b7dfd6056db0db892a75eaa1
 
 The VSCode extension has 4 types of tabs: the File Explorer, the Training tab, the Remote Instance tab, and the Training Monitor tab.
 The user can add as many of each tab as they want, enabling multiple parallel training sessions, connecting to multiple different remote machines, etc
