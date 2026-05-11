@@ -6,7 +6,7 @@ A browser themed VSCode extension and some other tools for training robots with 
 A good cloud computing service that that used while developing the remote tab features is Vast.ai, using this template here: 
 https://cloud.vast.ai?ref_id=504182&template_id=e25452f60c8fe45d982518bf3c988d94
 
-The VSCode extension has 3 types of tabs: the File Explorer, the Training tab, and the Remote Instance tab
+The VSCode extension has 4 types of tabs: the File Explorer, the Training tab, the Remote Instance tab, and the Training Monitor tab.
 The user can add as many of each tab as they want, enabling multiple parallel training sessions, connecting to multiple different remote machines, etc
 
 File Explorer tabs auto-detects Isaac installations if they exist but the user can manually browse for an installation (the folder simply called "Isaac". The user can navigate their Isaac folders, write new scripts, delete files, and even edit files in the extension. 
@@ -41,6 +41,11 @@ Steps for remote training:
   -Import your trained policies back to your local machine after training
 
 *If needed, the Powershell for both training and remote instance tabs is always available to run custom commands that may not be built-in yet
+
+The Training Monitor tab is extremely useful, especially for the remote instance training when you may not be able to view the UI. This tab pretty much plots all of your important training information over iterations as shown. When this monitor is coupled with my training script package, it gets extremely powerful, with the monitor calculating accurate ETAs, plotting individual rewards, and more!
+
+<img width="2823" height="1469" alt="Screenshot 2026-04-27 124902" src="https://github.com/user-attachments/assets/d3ad2848-5373-462b-829d-610a11d7d664" />
+
 
 *All local Isaac installations through the extension have the same hardware and software requirements as the installation through other means
 (pip, python (I use 3.10 with Isaac Lab 4.5), Git, etc)
