@@ -44,8 +44,7 @@ Steps for remote training:
 
 The Training Monitor tab is extremely useful, especially for the remote instance training when you may not be able to view the UI. This tab pretty much plots all of your important training information over iterations as shown. When this monitor is coupled with my training script package, it gets extremely powerful, with the monitor calculating accurate ETAs, plotting individual rewards, and more!
 
-<img width="2823" height="1469" alt="Screenshot 2026-04-27 124902" src="https://github.com/user-attachments/assets/d3ad2848-5373-462b-829d-610a11d7d664" />
-
+<img width="2766" height="1634" alt="image" src="https://github.com/user-attachments/assets/e271e3e6-1c15-4411-9155-9ce900f43cd5" />
 
 *All local Isaac installations through the extension have the same hardware and software requirements as the installation through other means
 (pip, python (I use 3.10 with Isaac Lab 4.5), Git, etc)
