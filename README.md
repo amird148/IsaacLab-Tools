@@ -46,6 +46,8 @@ The Training Monitor tab is extremely useful, especially for the remote instance
 
 <img width="2766" height="1634" alt="image" src="https://github.com/user-attachments/assets/e271e3e6-1c15-4411-9155-9ce900f43cd5" />
 
+<img width="2774" height="1632" alt="image" src="https://github.com/user-attachments/assets/decf9bce-a392-4d95-81f0-34b9f2be6d9e" />
+
 *All local Isaac installations through the extension have the same hardware and software requirements as the installation through other means
 (pip, python (I use 3.10 with Isaac Lab 4.5), Git, etc)
 
